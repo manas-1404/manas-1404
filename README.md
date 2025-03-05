@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **manas.gowda04@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1lBZEPW5pCB75ekDeMvzazDI5wLTtUUiJ/view?usp=drive_link](https://drive.google.com/file/d/1lBZEPW5pCB75ekDeMvzazDI5wLTtUUiJ/view?usp=drive_link)
+- 📄 Know about my life experiences [here](https://drive.google.com/file/d/1lBZEPW5pCB75ekDeMvzazDI5wLTtUUiJ/view?usp=drive_link)
 
 - ⚡ Fun fact **I call it “creative coding” when I have no idea why it works.**
 
@@ -29,4 +29,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manas-1404&show_icons=true&theme=dark&locale=en" alt="manas-1404" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manas-1404&" alt="manas-1404" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manas-1404&theme=dark" alt="manas-1404" /></p>
