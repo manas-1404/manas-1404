@@ -29,5 +29,5 @@
 
 <p>&nbsp;<img align="center" src="https://my-private-github-stats-wine.vercel.app/api?username=manas-1404&show_icons=true&theme=dark&locale=en" alt="manas-1404" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manas-1404&theme=dark" alt="manas-1404" /></p>
+<p><img align="center" src="https://github-readme-streak-stats-mu-sage.vercel.app/?user=manas-1404&theme=dark" alt="manas-1404" /></p>
 
