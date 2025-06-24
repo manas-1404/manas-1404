@@ -9,11 +9,11 @@
 
 - 🌱 I’m currently learning **Large-Language Models**
 
-- 👨‍💻 All of my projects are available at [https://manasgowda.live](https://manasgowda.live)
+- 👨‍💻 Know about my life experiences at [https://manasgowda.live](https://manasgowda.live)
 
 - 📫 How to reach me **manas.gowda04@gmail.com**
 
-- 📄 Know about my life experiences [here](https://drive.google.com/file/d/1lBZEPW5pCB75ekDeMvzazDI5wLTtUUiJ/view?usp=drive_link)
+- 📄 All of my projects are available [here](https://drive.google.com/file/d/1lBZEPW5pCB75ekDeMvzazDI5wLTtUUiJ/view?usp=drive_link)
 
 - ⚡ Fun fact **I call it “creative coding” when I have no idea why it works.**
 
