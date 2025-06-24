@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Large-Language Models**
 
-- 👨‍💻 All of my projects are available at [https://github.com/manas-1404](https://github.com/manas-1404)
+- 👨‍💻 All of my projects are available at [https://manasgowda.live](https://manasgowda.live)
 
 - 📫 How to reach me **manas.gowda04@gmail.com**
 
