@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manas-1404" alt="manas-1404" /></a> </p>
 
-- 🔭 I’m currently working on **Computer Vision and Machine Learning research projects**
+- 🔭 I’m currently working on **Reinforcement Learning and Machine Learning research projects**
 
-- 🌱 I’m currently learning **Large-Language Models**
+- 🌱 I’m currently learning **Decision Transformers**
 
 - 👨‍💻 Know about my life experiences at [https://manasgowda.live](https://manasgowda.live)
 
