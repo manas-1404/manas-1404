@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Decision Transformers**
 
-- 👨‍💻 Know about my life experiences at [https://manasgowda.live](https://manasgowda.live)
+- 👨‍💻 Know about my life experiences at [https://manasgowda.com](https://manasgowda.com)
 
 - 📫 How to reach me **manas.gowda04@gmail.com**
 
